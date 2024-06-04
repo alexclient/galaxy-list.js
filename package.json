@@ -1,0 +1,19 @@
+{
+  "name": "galaxy-list.js",
+  "version": "1.0.0",
+  "description": "The official Node SDK to interact with the Galaxy List API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "Galaxy List",
+    "Galaxy-list.js",
+    "dbl"
+  ],
+  "author": "AlexClient",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}

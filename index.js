@@ -1,5 +1,5 @@
 const fetch = (...args) => import('node-fetch').then(({default: fetch}) => fetch(...args));
-const baseURL = `http://galaxy.srvmc.net:25574/api`
+const baseURL = `http://galaxylist.srvmc.net:25566/api`
 
 module.exports = {
    postStats: async (client, apiKey, debug) => {

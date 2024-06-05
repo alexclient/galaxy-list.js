@@ -1,6 +1,6 @@
 # Galaxy List NPM Package
 
-The offical Node SDK to interact with [Galaxy List](http://galaxy.srvmc.net:25574/)'s API.
+The offical Node SDK to interact with [Galaxy List](http://galaxylist.srvmc.net:25566//)'s API.
 
 ```
 npm i galaxy-list.js
@@ -48,7 +48,7 @@ _await postStats(client, API_KEY, true);_
 
 ## GETing bot's info
 
-Provide a Discord bot ID of a bot that is on [Galaxy List](http://galaxy.srvmc.net:25574/).
+Provide a Discord bot ID of a bot that is on [Galaxy List](http://galaxylist.srvmc.net:25566//).
 
 ```js
 const botId = "123456789"; // Replace this with the ID of the bot.
@@ -65,7 +65,7 @@ galaxyList
 
 ## GETing server's info
 
-Provide a Discord server ID of a server that is on [Galaxy List](http://galaxy.srvmc.net:25574/servers).
+Provide a Discord server ID of a server that is on [Galaxy List](http://galaxylist.srvmc.net:25566//servers).
 
 ```js
 const serverId = "123456789"; // Replace this with the ID of the server.
@@ -82,7 +82,7 @@ galaxyList
 
 ## GETing bots's votes
 
-Provide a Discord bot ID of a bot that is on [Galaxy List](http://galaxy.srvmc.net:25574/bots).
+Provide a Discord bot ID of a bot that is on [Galaxy List](http://galaxylist.srvmc.net:25566//bots).
 
 ```js
 const botId = "123456789"; // Replace this with the ID of the bot.
@@ -99,7 +99,7 @@ galaxyList
 
 ## Check Vote from user
 
-Provide a Discord bot ID of a bot that is on [Galaxy List](http://galaxy.srvmc.net:25574/) and a Discord user ID.
+Provide a Discord bot ID of a bot that is on [Galaxy List](http://galaxylist.srvmc.net:25566//) and a Discord user ID.
 
 ```js
 const botId = "123456789"; // Replace this with the ID of the bot.

@@ -19,7 +19,7 @@ const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
 ## POSTing bot's stats
 
-First, define your Discord client, and then provide your Universe List API Key found in your bot's edit page.
+First, define your Discord client, and then provide your Galaxy List API Key found in your bot's edit page.
 
 ```js
 const Discord = require("discord.js");
